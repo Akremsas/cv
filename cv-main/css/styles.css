@@ -1,0 +1,27 @@
+body{
+    /*margin-left:10%;
+    margin-right:10%;*/
+    background-color: #EAF6F6;
+}
+hr{
+    /* background-color: white;
+    border-radius: 50px;
+    border-style: dotted ; */
+    border-top: 5px dotted grey ;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+    height: 0px;
+}
+img{
+    height: auto;
+}
+h1{
+    color: #36a0a0;
+    font-size: 48px;
+    font-family: cursive;
+}
+h3 {
+    color: #66BFBF;
+}
